@@ -1,86 +1,51 @@
-# Hi, I'm Alaa Wael 👋
+# Alaa Wael — Flutter Developer
 
-I'm a **Flutter Developer** passionate about building clean, scalable, and user-friendly mobile applications.  
-I focus on writing **maintainable code**, following **Clean Architecture**, and applying **SOLID principles and design patterns**.
+Flutter developer focused on clean architecture, API integration, and building apps that are maintainable past the first sprint.
 
-I’m currently seeking **Flutter opportunities** (full-time or freelance) where I can contribute, learn, and grow as part of a professional team.
+I work in Flutter/Dart using BLoC/Cubit for state management, Clean Architecture as the structural foundation, and SOLID principles as a day-to-day discipline — not just something to list. I also build and consume REST APIs on the PHP/MySQL side, which means I can debug a problem end to end without handing it off.
 
----
-
-## 🚀 About Me
-- 📱 Flutter Developer with **10 months of hands-on experience**
-- 🧠 Strong understanding of **Clean Architecture**, **SOLID principles**, and **design patterns**
-- 🔄 Experience building and consuming **RESTful APIs** (including back-end development)
-- 🔥 Worked with **Firebase** for authentication and real-time data
-- 🧪 Currently studying **software testing** to improve code quality
-- 🎨 Background in **UI/UX design** with Figma
+Currently open to full-time Flutter roles in Cairo and freelance projects worldwide.
 
 ---
 
-## 🛠 Tech Stack
-**Mobile Development**
-- Flutter, Dart
-- Android & iOS Apps
+## Tech Stack
 
-**State Management & Architecture**
-- GetX
-- Clean Architecture
-- MVC / Layered Architecture concepts
-
-**Backend & Data**
-- RESTful APIs
-- Firebase (Auth, Firestore)
-- SQL & Database Design
-
-**Software Engineering**
-- SOLID Principles
-- Design Patterns
-- Git & GitHub
-
-**UI / UX**
-- Figma
-- UI/UX Design Principles
-
-**Other**
-- HTML, CSS, JavaScript
-- React.js
-- Python
+**Mobile:** Flutter, Dart, Android & iOS  
+**State Management:** BLoC / Cubit (current), GetX (prior projects)
+**Architecture:** Clean Architecture, MVC  
+**Backend:** PHP, MySQL, REST APIs  
+**Firebase:** Auth, Firestore  
+**Tools:** Git, GitHub, Figma  
+**Other:** HTML, CSS, JavaScript, React, Python  
 
 ---
 
-## 📂 Featured Projects
-*(Repositories will be linked below as they are uploaded)*
+## Projects
 
-### 🛒 E-Commerce Mobile App
-- Full-featured Flutter e-commerce application
-- Built using **Clean Architecture** and **GetX**
-- RESTful backend integration
-- Features include authentication, product browsing, cart, and order flow
-- Focus on scalability and clean code structure
+### Aura — E-Commerce App
+Full-stack mobile e-commerce app with Flutter frontend and custom PHP/MySQL backend. Covers authentication, product browsing, cart, and order flow across multiple user roles (User, Admin, Delivery). I built both the Flutter client and the 30+ endpoint REST API from scratch. Built with Clean Architecture and GetX — currently migrating to BLoC/Cubit.
 
-### 💬 Chat Application
-- Real-time chat app using **Firebase**
-- CRUD operations with authentication
-- Clean and responsive UI
+→ [Flutter repo](https://github.com/alaawael-dev/flutter-ecommerce-app) · [Backend repo](https://github.com/alaawael-dev/ecommerce-backend)
 
-### 📝 Notes Application
-- Flutter app with **login & signup**
-- Connected to **custom-built RESTful APIs**
-- Demonstrates backend integration and state handling
+### Chat App
+Real-time chat using Firebase Auth and Cloud Firestore. Handles authentication, live message sync, and CRUD operations.
+
+### Notes App
+Flutter app with login/signup, connected to a self-built REST API. Straightforward, but I wrote the backend too.
 
 ---
 
-## 🎯 What I’m Looking For
-- Flutter developer roles (Junior / Junior–Mid)
-- Freelance Flutter projects
-- Opportunities to work on real-world products and grow technically
+## Currently Building
+
+**Kemet Guide** — A Flutter tourism app for Egypt, built with BLoC/Cubit and Clean Architecture, PHP/MySQL backend, and a booking-commission monetization model. Pre-launch.
+
+**Mal3ab** — Football court booking app. Same architecture stack.
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **alaaw440@gmail.com**
-- 💼 LinkedIn: *www.linkedin.com/in/alaaeldin-wael*
+## Contact
 
----
-
-⭐ If you find my work interesting, feel free to check out my repositories or reach out!
+Email: alaaw440@gmail.com  
+LinkedIn: [linkedin.com/in/alaaeldin-wael](https://www.linkedin.com/in/alaaeldin-wael)  
+Fiverr: [fiverr.com/alaa_flutter](https://www.fiverr.com/alaa_flutter)  
+GitHub: [github.com/alaawael-dev](https://github.com/alaawael-dev)
