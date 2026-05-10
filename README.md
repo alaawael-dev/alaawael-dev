@@ -1,5 +1,14 @@
 # Alaa Wael — Flutter Developer
 
+<p align="left">
+<a href="https://github.com/alaawael-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaawael-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/alaawael-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaawael-dev&layout=compact&theme=radical&langs_count=6" />
+</a>
+</p>
+
 Flutter developer focused on clean architecture, API integration, and building apps that are maintainable past the first sprint.
 
 I work in Flutter/Dart using BLoC/Cubit for state management, Clean Architecture as the structural foundation, and SOLID principles as a day-to-day discipline — not just something to list. I also build and consume REST APIs on the PHP/MySQL side, which means I can debug a problem end to end without handing it off.
