@@ -11,7 +11,7 @@
 
 Flutter developer focused on clean architecture, API integration, and building apps that are maintainable past the first sprint.
 
-I work in Flutter/Dart using BLoC/Cubit for state management, Clean Architecture as the structural foundation, and SOLID principles as a day-to-day discipline — not just something to list. I also build and consume REST APIs on the PHP/MySQL side, which means I can debug a problem end to end without handing it off.
+I work in Flutter/Dart using BLoC/Cubit for state management, Clean Architecture as the structural foundation, and SOLID principles as a day-to-day discipline not just something to list. I also build and consume REST APIs on the PHP/MySQL side, which means I can debug a problem end to end without handing it off.
 
 Currently open to full-time Flutter roles in Cairo and freelance projects worldwide.
 
